@@ -1,0 +1,208 @@
+
+.e3_3 { 
+	background-color:rgba(233.7500050663948, 233.7500050663948, 233.7500050663948, 1);
+	width:1440px;
+	height:3602px;
+	position:absolute;
+}
+.e11_58 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:1440px;
+	height:206px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.e11_59 { 
+	width:264px;
+	height:176px;
+	position:absolute;
+	left:585px;
+	top:10px;
+	background-image:url(images/2560px_valorant_logo___pink_color_version_2.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e11_60 { 
+	background-color:rgba(255, 70.00000342726707, 85.0000025331974, 1);
+	width:1440px;
+	height:52px;
+	position:absolute;
+	left:0px;
+	top:199px;
+}
+.e11_61 { 
+	color:rgba(0, 0, 0, 1);
+	width:149px;
+	height:43px;
+	position:absolute;
+	left:90px;
+	top:208px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e11_62 { 
+	color:rgba(0, 0, 0, 1);
+	width:151px;
+	height:41px;
+	position:absolute;
+	left:316px;
+	top:208px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e11_64 { 
+	color:rgba(0, 0, 0, 1);
+	width:481px;
+	height:378px;
+	position:absolute;
+	left:890px;
+	top:682px;
+	font-family:Inter;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e11_65 { 
+	color:rgba(0, 0, 0, 1);
+	width:472px;
+	height:28px;
+	position:absolute;
+	left:80px;
+	top:378px;
+	font-family:Inter;
+	text-align:left;
+	font-size:48px;
+	letter-spacing:0;
+}
+.e11_68 { 
+	color:rgba(0, 0, 0, 1);
+	width:472px;
+	height:28px;
+	position:absolute;
+	left:1082px;
+	top:1238px;
+	font-family:Inter;
+	text-align:left;
+	font-size:48px;
+	letter-spacing:0;
+}
+.e28_3 { 
+	color:rgba(0, 0, 0, 1);
+	width:472px;
+	height:28px;
+	position:absolute;
+	left:239px;
+	top:2201px;
+	font-family:Inter;
+	text-align:left;
+	font-size:48px;
+	letter-spacing:0;
+}
+
+.e28_5 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width: 525px;
+	height: 320px;
+	position:absolute;
+	left:74px;
+	top:2763px;
+}
+.e28_6 { 
+	width:533px;
+	height:219px;
+	position:absolute;
+	left:453px;
+	top:3325px;
+	background-image:url(images/valorant_prime_vandal_weapon_skin_2.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e11_69 { 
+	width:364px;
+	height:630px;
+	position:absolute;
+	left:575px;
+	top:1201px;
+	background-image:url(images/v_agents_587x900_viper_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e11_71 { 
+	transform: rotate(0.025381576447805324deg);
+	color:rgba(0, 0, 0, 1);
+	width:330.2550354003906px;
+	height:56px;
+	position:absolute;
+	left:1038.0247802734375px;
+	top:364px;
+	font-family:Inter;
+	text-align:left;
+	font-size:48px;
+	letter-spacing:0;
+}
+.e11_63 { 
+	width:420px;
+	height:632px;
+	position:absolute;
+	left:519px;
+	top:314px;
+	background-image:url(images/webupdate_chamber_keyart_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e11_72 { 
+	color:rgba(0, 0, 0, 1);
+	width:515px;
+	height:312px;
+	position:absolute;
+	left:80px;
+	top:1605px;
+	font-family:Inter;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e28_4 { 
+	color:rgba(0, 0, 0, 1);
+	width:515px;
+	height:312px;
+	position:absolute;
+	left:899px;
+	top:2794px;
+	font-family:Inter;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e28_2 { 
+	width:365px;
+	height:712px;
+	position:absolute;
+	left:557px;
+	top:2125px;
+	background-image:url(images/v_agents_587x900_sage_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+.videoo {
+
+	bottom: 100px;
+	top: 450px;
+	left: 80px;
+	position: relative;
+
+}
+
+p {
+
+	left: 800px;
+	position: relative;
+	bottom: 50px;
+	
+	}

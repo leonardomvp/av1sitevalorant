@@ -1,0 +1,73 @@
+.3_2 { 
+	overflow:hidden;
+}.e3_2 { 
+	background-color:rgba(233.7500050663948, 233.7500050663948, 233.7500050663948, 1);
+	width:1440px;
+	height:1024px;
+	position:absolute;
+}.e6_14 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:1440px;
+	height:206px;
+	position:absolute;
+	left:-3px;
+	top:-7px;
+}.e6_15 { 
+	background-color:rgba(255, 70.00000342726707, 85.0000025331974, 1);
+	width:1440px;
+	height:52px;
+	position:absolute;
+	left:0px;
+	top:199px;
+}.e5_7 { 
+	width:264px;
+	height:176px;
+	position:absolute;
+	left:585px;
+	top:10px;
+	background-image:url(images/2560px_valorant_logo___pink_color_version_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e6_16 { 
+	color:rgba(0, 0, 0, 1);
+	width:149px;
+	height:43px;
+	position:absolute;
+	left:90px;
+	top:208px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}.e6_17 { 
+	color:rgba(0, 0, 0, 1);
+	width:151px;
+	height:41px;
+	position:absolute;
+	left:349px;
+	top:208px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}.e7_18 { 
+	color:rgba(0, 0, 0, 1);
+	width:571px;
+	height:269px;
+	position:absolute;
+	left:447px;
+	top:373px;
+	font-family:Inter;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}.e9_53 { 
+	width:440px;
+	height:192px;
+	position:absolute;
+	left:500px;
+	top:799px;
+	background-image:url(images/valorant_prime_vandal_weapon_skin_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
